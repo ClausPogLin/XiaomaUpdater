@@ -87,7 +87,7 @@ namespace XiaomaUpdater.Models
         public long PlanId { get; set; }
 
         [JsonProperty("comboId")]
-        public long ComboId { get; set; }
+        public long? ComboId { get; set; }
 
         [JsonProperty("planName")]
         public string PlanName { get; set; }

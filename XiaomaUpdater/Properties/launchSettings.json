@@ -1,0 +1,15 @@
+{
+  "profiles": {
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    },
+    "Normal": {
+      "commandName": "Project"
+    },
+    "UserEditMode": {
+      "commandName": "Project",
+      "commandLineArgs": "UserEditMode=true"
+    }
+  }
+}
